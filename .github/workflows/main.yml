@@ -1,4 +1,4 @@
-name: Deploy to Surge.sh
+﻿name: Deploy to Surge.sh
 
 on:
   push:
